@@ -1,0 +1,16 @@
+{
+  "record": [
+
+ {"name":  "ali", "email":"ali@gami.com",  "phone":"03786754", "semester":"DISM", "dob": "6/7/1234"  },
+ 
+ {"name":  "azbar", "email":"azbar@gami.com",  "phone":"09365435", "semester":"DISM", "dob": "2/4/2002"  },
+
+ {"name":  "hasnain ", "email":"hasnain@gami.com",  "phone":"3243244", "semester":"DISM", "dob": "4/6/1280"  },
+
+ {"name":  "hamza ", "email":"hamza@gami.com",  "phone":"3243243", "semester":"DISM", "dob": "6/6/1999"  },
+
+ {"name":  "sufiyan ", "email":"sufiyan@gami.com",  "phone":"32432432", "semester":"DISM", "dob": "7/9/1671"  }
+
+  ]
+
+}
